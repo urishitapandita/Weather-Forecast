@@ -12,6 +12,21 @@
 
 
 
+<img width="1908" height="626" alt="image" src="https://github.com/user-attachments/assets/b6a9514f-c403-46bc-b2a1-9907bf061e8d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
